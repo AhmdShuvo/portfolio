@@ -56,3 +56,10 @@ color: red;
     font-size: 26px;
 margin-left: 20px;
 }
+.experience{
+    display:flex;
+
+
+   
+border: thin hsla(0, 88%, 17%, 0.959) 5px;
+}
