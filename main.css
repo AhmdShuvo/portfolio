@@ -1,38 +1,22 @@
-body{
-    font-family: 'Times New Roman', Times, serif;
-    font: size 25px;;
-    margin-left: 39px;
-    margin: 0%;
-}
-.name{
-
-    color: gold;
-}
-.para{
-    width: 50%
-    ;
-    color: rgb(111, 0, 255);
-}
-.image{
-  
- 
-
-
-
-}
-
-.button{
-   background-color: rgb(148, 6, 84);
-  padding: 10px;
-   margin-left: 20%;
-   font-size: 14px;
-
-}
 .topbanner{
+    display: flex;
+    margin: 0px;
     background-image: url(images/download\ \(1\).jfif);
     background-repeat: no-repeat;
-    display: flex;}
+}
+.peragraph{
+    background-color: rgba(218, 8, 26, 0.582);
+ border: ridge rgba(138, 8, 15, 0.397) 10px;
+}
+.image{
+    margin-left: 10px;
+}
+button{
+    background-color:royalblue;
+    margin:10px;
+    margin-left: 20px;
     
-.paragraph{
-    background-image:url(images/download\ \(1\).jfif);
+}
+.detailstab{
+    background-color: navy;
 }
