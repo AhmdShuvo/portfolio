@@ -18,16 +18,24 @@ button{
     margin-left: 20px;
     
 }
-.detailstab{
-    background-color: navy;
-}
-.fintext{
-    background-color: rgb(139, 16, 16);
-}
-.details{
-    display: flex;
-}
+
 body{
     margin: 0px;
     font-family: sans-serif;
+}
+
+.detailsimg{
+    display: flex;
+}
+.details{
+    display: flex;
+    margin: 100px;
+}
+.detailstab{
+    margin-left: 20px;
+}
+.findtext{
+    text-align: center;
+text-size-adjust: 40px;
+    text-shadow: rgb(255, 0, 0);
 }
