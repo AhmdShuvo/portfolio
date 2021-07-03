@@ -33,9 +33,26 @@ body{
 }
 .detailstab{
     margin-left: 20px;
+    background-image: url(images/download\ \(1\).jfif);
+    background-repeat:no-repeat;
+border: thin hsla(0, 88%, 17%, 0.959) 5px;
+ 
 }
 .findtext{
     text-align: center;
 text-size-adjust: 40px;
-    text-shadow: rgb(255, 0, 0);
+    color: rgb(17, 17, 15);
+    border: groove red 10px;
+text-shadow: rgb(255, 0, 0);
+}
+.checkbutton{
+color: red;
+}
+.linkbutton{
+    text-decoration: none;
+   background-image: linear-gradient(gold,red);
+    padding: 10px 40;
+    border-radius: 5px;
+    font-size: 26px;
+margin-left: 20px;
 }
