@@ -2,6 +2,7 @@ body{
     font-family: 'Times New Roman', Times, serif;
     font: size 25px;;
     margin-left: 39px;
+    margin: 0%;
 }
 .name{
 
@@ -20,14 +21,19 @@ body{
 
 
 }
-section{
-    display: flex;
-    border: lawngreen;
-}
-.peragraph{
-    color: indigo;
-    background-color: goldenrod;
-}
+
 .button{
-   background-image: do;
+   background-color: rgb(148, 6, 84);
+  padding: 10px;
+   margin-left: 20%;
+   font-size: 14px;
+
+}
+.topbanner{
+    background-image: url(images/download\ \(1\).jfif);
+    background-repeat: no-repeat;
+    display: flex;}
+    
+.paragraph{
+    background-image:url(images/download\ \(1\).jfif);
 }
