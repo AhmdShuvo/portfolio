@@ -56,10 +56,21 @@ color: red;
     font-size: 26px;
 margin-left: 20px;
 }
-.experience{
-    display:flex;
-
-
+.half{
    
-border: thin hsla(0, 88%, 17%, 0.959) 5px;
+    width: 50%;
+    margin: 10px;
+    border: solid red 1px;
+    border-radius: 10px;
+   color: red;
+   background-image: linear-gradient(white,gold);
+   padding-left: 50px;
+}
+.bottom{
+    display: flex;
+}
+.experience{
+
+    background-color: rgba(255, 217, 0, 0.384);
+    background-image: radial-gradient(white.silver);
 }
